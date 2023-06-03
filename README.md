@@ -41,8 +41,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
-```
+<h1>Some css code I'm proud of</h1>
 .outline{
     background-color: hsl(212, 45%, 89%);
     height: 500px;
@@ -51,7 +50,7 @@ To see how you can add code snippets, see below:
     left: 25%;
     border-radius: 15px;
 }
-
+```
 ## Author
 
 - Website - [FAITH NKATHA]()
