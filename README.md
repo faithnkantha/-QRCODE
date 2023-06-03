@@ -54,5 +54,5 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [FAITH NKATHA]()
-- Frontend Mentor - [@@faithnkantha](https://www.frontendmentor.io/profile/faithnkantha)
+- Frontend Mentor - [@faithnkantha](https://www.frontendmentor.io/profile/faithnkantha)
 - Twitter - [@fnkatha1](https://twitter.com/fnkatha1?t=R3vH8NRaXot4aaGPxOTW0Q&s=09)
